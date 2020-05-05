@@ -6,4 +6,4 @@ In this notebook, we combine what we learned in the previous [Color Selection No
 
 Essentially, we (logic) AND the area within our Color Selection and ROI, negating everything else. Then we can overlay our threshold/ROI selection with the original image...
 
-[Threshold ROI](/images/threshold_roi.png)
+![Threshold ROI](/images/threshold_roi.png)
